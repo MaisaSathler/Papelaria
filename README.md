@@ -1,5 +1,5 @@
 # Papelaria Tesourinha
-#2 Começando🚀
+## Começando🚀
 Site da Papelaria Tesourinha com vários materiais baratos e acessíveis.
 ## Tecnologias
 HTML & CSS
